@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Jordan Lue
+email:       jordan.lue@gmail.com
+author:      Jordan Lue
+description: "My data journey"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://jordanlue.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -47,7 +47,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: jordanlue
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
@@ -55,7 +55,7 @@ twitter_username:
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: jordanlue
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -70,7 +70,7 @@ show_sharing_icons: false
 share_facebook: false
 share_twitter: false
 share_googleplus: false
-share_linkedin: false
+share_linkedin: true
 share_digg: false
 share_tumblr: false
 share_reddit: false
