@@ -6,6 +6,11 @@ summary: Pixyll is available to you under the MIT license.
 categories: jekyll pixyll
 published: true
 ---
+---
+layout: post
+title:  "A Reflection on the Queen's Master of Management Analytics"
+date:   2020-12-26
+---
 
 Throughout 2020, I completed the Queen's Master of Management Analytics (MMA), which is a 1 year full-time masters program offered to working and non-working students alike. As we close out the year, I reflect on my experiences as I begin to plan for what 2021 will hold, from a professional development standpoint. The Queen's MMA is a masters program with a focus on data and analytics.  I like to describe the experience as learning a combination of technical, non-technical and domain skills. 
 
