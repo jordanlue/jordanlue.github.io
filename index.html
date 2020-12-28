@@ -22,6 +22,10 @@ layout: default
             {% else %}
               {{ post.excerpt }}
             {% endif %}
+			<!-- https://muffinman.io/blog/jekyll-read-more-link/ -->
+			{% if post.excerpt != post.content %}
+				<a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+			{% endif %}
           </span>
         </div>
       {% endfor %}
